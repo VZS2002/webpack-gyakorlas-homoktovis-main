@@ -74,3 +74,7 @@ ul{
 .navbar-expand-md{
     text-align: centered;
 }
+
+.asd {
+    align-self: center !important;
+}
