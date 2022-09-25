@@ -34,7 +34,17 @@ header{
     
 }
 
+.bokor{
+    width: 40%;
+    ;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
 
+}
+    
 
 
 ul{
@@ -42,6 +52,25 @@ ul{
     color: orange;
 }
 
+.alul{
+    
+    margin-bottom: 20px;
+    background-color: rgb(238, 238, 238);
+    padding: 20px;
+    border-left:  1px solid rgb(209, 209, 209);
+    border-right: 1px solid rgb(209, 209, 209) ;
+    border-bottom:  1px solid rgb(209, 209, 209);
+   
+}
 
+.felul{
+    margin-top: 20px;
+    background-color: white;
+    padding: 10px;
+    border: 1px solid rgb(209, 209, 209);
+}
 
  
+.navbar-expand-md{
+    text-align: centered;
+}
