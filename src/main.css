@@ -78,3 +78,14 @@ ul{
 .asd {
     align-self: center !important;
 }
+
+
+
+.felul2{
+    margin-top: 20px;
+    background-color: orange;
+    padding: 10px;
+    border: 1px solid rgb(209, 209, 209);
+    font-weight: 600;
+    font-size: x-large;
+}
