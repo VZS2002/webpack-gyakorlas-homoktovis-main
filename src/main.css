@@ -1,0 +1,29 @@
+body{
+    background-image: url("/images/hatter.png");
+}
+
+#egesz{
+    max-width:70%;
+   
+    
+    margin: auto;
+}
+
+header{
+    background-color: orange;
+    padding: 4%;
+    text-align: center;
+    font-size: 300%;
+    font-weight: 600;
+}
+
+.navbar{
+    margin-top: 30px;
+    margin-bottom: 10px;
+  
+}
+
+ul{
+    text-align: center;
+    color: orange;
+}
