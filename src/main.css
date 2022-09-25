@@ -89,3 +89,56 @@ ul{
     font-weight: 600;
     font-size: x-large;
 }
+.alul2{
+    
+    margin-bottom: 20px;
+    background-color: white;
+    padding: 20px;
+    border-left:  1px solid rgb(209, 209, 209);
+    border-right: 1px solid rgb(209, 209, 209) ;
+    border-bottom:  1px solid rgb(209, 209, 209);
+   
+}
+
+table{
+    width: 100%;
+  
+    
+}
+
+td{
+border: 1px solid  rgb(226, 226, 226);
+border-collapse: separate;
+perspective: 1px;
+overflow: hidden;
+
+border-radius: 10px;
+padding: 10px;
+}
+
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+    
+  }
+
+ 
+  
+  a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: orange;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: orange;
+    background-color: transparent;
+    text-decoration: underline;
+  }
