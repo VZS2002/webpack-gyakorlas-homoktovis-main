@@ -15,15 +15,33 @@ header{
     text-align: center;
     font-size: 300%;
     font-weight: 600;
+    
 }
 
 .navbar{
     margin-top: 30px;
     margin-bottom: 10px;
+    
   
 }
+
+
+
+.nav-link{
+    color: orange;
+    font-style: italic ;
+
+    
+}
+
+
+
 
 ul{
     text-align: center;
     color: orange;
 }
+
+
+
+ 

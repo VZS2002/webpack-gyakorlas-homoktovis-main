@@ -2,7 +2,7 @@
 <html lang="hu">
 <head>
     <link rel="stylesheet" href="dist/main.css" media="screen">
-    <link rel="stylesheet" href="src/ma">
+    
     <script src="dist/main.js"></script>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -18,9 +18,9 @@
 </header>
 
 
-<nav class="navbar navbar-expand-sm bg-light">
+<nav class="navbar navbar-expand-md bg-white ">
 
-  
+  <div class="d-md-flex d-block flex-row mx-md-auto mx-0">
     <ul class="navbar-nav">
       <li class="nav-item">
         <a class="nav-link" href="#">Komoktövis</a>
@@ -37,13 +37,23 @@
       <li class="nav-item">
         <a class="nav-link" href="#">Ellenjavasalat</a>
       </li>
+      
     </ul>
-  
+  </div>
   </nav>
 
+  <div class="bezar" style="  padding: 10px; background-color: orange">
+    <span class="x" onclick="this.parentNode.remove(); return false;" style=" float: right;">x</span>
+    <h2 style="font-weight: bold; font-size: x-large;">Gratulálunk!</h2>
+    Az alábbi kupon felhasználásával 15% kedvezménnyel rendelheti meg bármelyik termékünket a webboltunkban!
+    <br>
+    <span style="font-weight: bold; font-size: x-large;">25929</span>
+  </div>
 
 
-
+  
+  
+  Other content moves up when bar is closed.
 
     Gratulálunk!
     Az alábbi kupon felhasználásával 15% kedvezménnyel rendelheti meg bármelyik termékünket a webboltunkban!
@@ -75,6 +85,6 @@
     http://www.hazipatika.com/eletmod/termeszetes_gyogymodok/cikkek/homoktovis_a_cso
     danoveny/20121212113454 
 </div>
-
+<script src="src/index.js"></script>
 </body>
 </html>
